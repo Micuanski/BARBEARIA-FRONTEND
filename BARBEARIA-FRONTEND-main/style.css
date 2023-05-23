@@ -1,0 +1,17 @@
+.example {
+    text-align: center;
+    color: gold;
+    border: solid;
+}
+
+div {
+    text-align: center;
+}
+
+.center {
+    width: 30%;
+}
+body {
+    background-image: url('https://br.web.img3.acsta.net/pictures/21/07/20/22/05/1693491.jpg');
+    background-size: 100%;
+}
